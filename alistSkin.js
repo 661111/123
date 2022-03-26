@@ -13,9 +13,9 @@ $("html").click(function() {
             // 个人信息编写区域+星环博客提供技术支持+ —————— ON
 
             // 头像链接地址
-            headimg = "",
+            headimg = "https://cdn.jsdelivr.net/gh/linanyang/image_hosting/themes/avatar.jpg",
             // 博主铭言句子
-            motto = "",
+            motto = "今日事，今日毕",
             // 配置 - 导航内容及链接【注：名称和链接需要一一对应，用英文逗号隔开】
             linkname = ["首页", "博客"],
             link = ["/", "https://www.nanyang.pro/"],
